@@ -1,7 +1,7 @@
 # Game-Of-Life
 Simple editor for editing and viewing the famous cellular automata, Conway's Game of Life
 
-Download the compiled version of the game [here](https://stati30241.itch.io/game-of-life-editor)
+Download the compiled version of the editor here or the [itch.io page](https://stati30241.itch.io/game-of-life-editor)
 
 The editor was made using SFML
 
